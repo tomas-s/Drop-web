@@ -9,6 +9,10 @@
 
                 <div class="panel-body">
                     Welcome to Drops.
+                    <?php
+                    $hash = "Sdad.d.sdaerh.\sda|///dsakjojgf/s/";
+                    echo str_replace("\\","c",$hash);
+                    ?>
 
                 </div>
             </div>

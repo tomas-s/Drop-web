@@ -58,7 +58,8 @@ class UserSensorController extends Controller {
         $user = User::all()->where("email",$email)->first();
         if($user!=null){
             $hash = bcrypt($email.$time);
-            str_replace("\\","P",$hash);
+            $hash = str_replace("\\","P",$hash);
+            $hash = str_replace("/","c",$hash);
             $sensor = new Sensor();
             $sensor->user_id = $user->id;
             $sensor->sensor_id =$hash;
