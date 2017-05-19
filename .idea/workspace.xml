@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ceeb28-ceab-460d-8052-1547d537e73f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +52,8 @@
       <file leaf-file-name=".env" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -168,6 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,7 +270,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -278,7 +279,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value=".en&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;.env&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;compos&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;we&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;welco&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;senso&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/SensorController.php&#10;compo&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;.htacc&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/.htaccess&#10;.htac&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/.htaccess&#10;route&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/routes.php&#10;welcom&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;migra&#9;null&#9;null&#10;Auth&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;DataController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/DataController.php&#10;AuthController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;login&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/auth/login.blade.php&#10;env&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;AuthenticatesUsers&#9;FILE&#9;file:///opt/lampp/htdocs/drops/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php&#10;SensorController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/SensorController.php&#10;authCon&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;mydr&#9;null&#9;null&#10;composer.&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;confirmEmail&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/confirmEmail.blade.php&#10;MyDropsController&#9;null&#9;null&#10;robots&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/robots.txt&#10;sensorco&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="read&#9;FILE&#9;file:///opt/lampp/htdocs/drops/readme.md&#10;.en&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;.env&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;compos&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;we&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;welco&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;senso&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/SensorController.php&#10;compo&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;.htacc&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/.htaccess&#10;.htac&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/.htaccess&#10;route&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/routes.php&#10;welcom&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/welcome.blade.php&#10;migra&#9;null&#9;null&#10;Auth&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;DataController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/DataController.php&#10;AuthController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;login&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/auth/login.blade.php&#10;env&#9;FILE&#9;file:///opt/lampp/htdocs/drops/.env&#10;AuthenticatesUsers&#9;FILE&#9;file:///opt/lampp/htdocs/drops/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php&#10;SensorController&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/SensorController.php&#10;authCon&#9;FILE&#9;file:///opt/lampp/htdocs/drops/app/Http/Controllers/Auth/AuthController.php&#10;mydr&#9;null&#9;null&#10;composer.&#9;FILE&#9;file:///opt/lampp/htdocs/drops/composer.json&#10;confirmEmail&#9;FILE&#9;file:///opt/lampp/htdocs/drops/resources/views/confirmEmail.blade.php&#10;MyDropsController&#9;null&#9;null&#10;robots&#9;FILE&#9;file:///opt/lampp/htdocs/drops/public/robots.txt&#10;sensorco&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -399,12 +400,16 @@
       <workItem from="1494003943673" duration="1067000" />
       <workItem from="1494006068523" duration="40000" />
       <workItem from="1494006841642" duration="978000" />
-      <workItem from="1494318161704" duration="697000" />
+      <workItem from="1494318161704" duration="1296000" />
+      <workItem from="1494876453837" duration="85000" />
+      <workItem from="1495154530962" duration="610000" />
+      <workItem from="1495173892392" duration="612000" />
+      <workItem from="1495174509771" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89938000" />
+    <option name="totallyTimeSpent" value="91856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1056" extended-state="6" />
@@ -461,13 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -852,7 +850,7 @@
         <state relative-caret-position="493">
           <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
+            <element signature="e#40#68#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -887,10 +885,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md" />
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
